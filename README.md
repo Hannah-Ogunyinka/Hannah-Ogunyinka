@@ -1,10 +1,8 @@
-[![MasterHead](https://drive.google.com/uc?id=yO_Xqpv5BrCq2rTb7NaMmC3tbXMbeJbf)]
-
-
+![MasterHead](https://drive.google.com/uc?id=11ZxJ4ia-RQ3rJpkFhEzYh7sMFpzIMnF_)
 
 <h1 align="center">Hi 👋🏾, I'm Hannah Ogunyinka</h1>
 <h3 align="center">A passionate frontend developer that builds engaging digital spaces for the internet</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/girl-day-night-1XCcD9VLQZ2Io">
+<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."> -->
 
 - 🔭 I’m currently working on [Shuttergrow](https://www.figma.com/proto/xGLcOJapcxkZDyhWHobpcw/Shuttergrow?type=design&node-id=45-186&t=VVm6zOREfE3Qlm2a-8&scaling=scale-down-width&page-id=0%3A1&starting-point-node-id=199%3A51&hide-ui=1)
 
