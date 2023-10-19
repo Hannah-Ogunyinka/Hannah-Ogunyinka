@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning **React and Astro frameworks**
 
-- 👩🏾‍💻 All of my projects are available at [https://hannahogunyinka.com/](https://hannahogunyinka.com/)
+- 👩🏾‍💻 A selection of my projects and writing can be found at [https://hannahogunyinka.com/](https://hannahogunyinka.com/)
 
 - 📫 How to reach me **hogunyinka@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/hannahogunyinka/](https://www.linkedin.com/in/hannahogunyinka/)
+- 📄 Know about my experience [https://www.linkedin.com/in/hannahogunyinka/](https://www.linkedin.com/in/hannahogunyinka/)
 
 - ⚡ Fun fact **I love photography 📸 and enjoy documenting life through images**
 
