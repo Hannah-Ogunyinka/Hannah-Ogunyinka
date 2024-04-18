@@ -4,7 +4,7 @@
 <h3 align="center">I'm a passionate frontend developer who loves building engaging digital spaces for the internet</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."> -->
 
-- 🔭 I’m currently working on [Shuttergrow](https://www.figma.com/proto/xGLcOJapcxkZDyhWHobpcw/Shuttergrow?type=design&node-id=45-186&t=VVm6zOREfE3Qlm2a-8&scaling=scale-down-width&page-id=0%3A1&starting-point-node-id=199%3A51&hide-ui=1)
+- 🔭 I’m currently working on [Baya Garden Studio](https://bayagardenstudio.com)
 
 - 🌱 I’m currently learning **React and Astro frameworks**
 
